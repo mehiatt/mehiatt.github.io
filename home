@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width" />
+	
+    <title>Meagan Hiatt</title>
+    
+	
+	<style>
+	body{
+		background-color: #01304B;
+		background-repeat: no-repeat;
+		background-attachment:fixed;
+		background-size:cover;
+		background-position:center top;
+		margin:0px;
+		padding: 0 px;
+		
+	}
+	#container{
+		max-width:880px;
+		min-width:430px;
+		margin: 0px auto;
+		background-color: #036096;
+		padding: 0px; 
+		background-size:cover;
+		background-position:center top;
+	}
+	#intro{
+		max-width:800px;
+		min-width:650px;
+		margin: 0px auto;
+		background-color: #FFF;
+		padding: 20px;
+		font-family: Arial, Helvetica, sans-serif;
+		background-image: url("bkgnd5.png");
+		background-repeat:no-repeat;
+		background-size: 850px;
+		
+	}
+	#wrapper{
+		max-width:800px;
+		min-width:350px;
+		margin: auto;
+		background-color: #FFF;
+		display:inline-block;
+	}
+	#skills{
+		width:300px;
+		height:300px;
+		background-image: url("solderingpic.jpg");
+		background-position:center;
+		margin-right:20px;
+		margin-bottom:5px;
+	}
+	  
+	#project{
+		width:300px;
+		height:300px;
+		background-image: url("oliraw2.jpg");
+		background-size:145%;
+		background-position:right;
+		margin-right:20px;
+		margin-bottom:5px;
+	}
+	  
+	  #thesis{
+	   width:300px;
+	   height:300px;
+	   background-image: url("thesis.jpg");
+	   background-size:225%;
+	   background-position:right;
+	   margin-right:20px;
+	   margin-top:5px;
+	  }
+	  #about{
+	   width:300px;
+	   height:300px;
+	   background-image: url("IMAG0824.jpg");
+	   background-size: 300px;
+	   background-position:center ;
+	   margin-right:20px;
+	   margin-top:5px;
+	  }
+	  
+	  
+	  #links{
+		color:#0595FB;
+		text-align:center;
+		font-size:20px
+	  }
+	  a {
+		text-decoration:none;
+		color:#888;
+		font-size:20px
+	  }
+	  a:hover{
+		color:#05A0FB;
+		font-style:italic;
+	  }
+	  #bottom{
+		width:100%;
+		bottom:0;
+		background-color: #036096; <!--#69c6fc;-->
+		padding-top:20px;
+		padding-bottom:20px;
+		display:inline-block;
+		
+	  }
+
+
+    #tableID{
+		margin:auto;
+		<!--margin-left:expression(document.body.clientHeight*.05);#69c6fc-->
+	}
+	#tableID td {
+		display:inline-block;
+		
+	}
+	wrapperC{
+		width:100%;
+		margin: auto;
+		padding: 10px;
+	}
+	#placement{
+		display:inline-block;
+	}
+	.picText{
+		color:#000; 
+		font-size:36px;
+		font-weight:bold;
+		
+	}
+	.tCover{
+		background: rgba(255, 255, 255, .5);
+		color: #FFF;
+		filter: alpha(opacity=60);
+		width:100%;
+	    height:100%;
+		position:relative;
+		visibility: visible;
+		margin:-36px;
+	}
+	.picText:hover{
+		color: #036096;
+	}
+	img{
+		
+	}
+    </style>
+
+	
+  </head>
+  <body>
+  <div id="container">
+	
+	<div id="intro">
+		<div id="links"> <a href="#"> Contact Me </a>&nbsp; &nbsp; &nbsp; <a href="#"> LinkedIn </a></div>
+		<p style="font-size:22px"> &nbsp; </p>
+		<br/>
+		<br/>
+		<br/>
+		
+		
+		<p> &nbsp; </p>
+		<img src="profile.jpg" width="190px" style="float:right; margin-right:75px; margin-left:15px; margin-bottom:5px; border: 5px solid #036096;">
+		<blockquote>
+		<blockquote>
+		<h1 align="right"><span style="color:#05A0FB; font-size:48px; ">Meagan Hiatt</span></h1>
+		<p align="right"><span style="font-style:italic; color:#05A0FB;">B.S. in Robotic Engineering & Electrical and Computer Engineering, Minor in Chinese</span></p>
+		
+		<p>&nbsp;&nbsp;&nbsp; This past May I graduated from Worcester Polytechnic Institute in Worcester, Massachusetts with a dual B.S. in Robotic Engineering and Electircal &amp; Computer Engineering. I am returning to WPI for a fifth year to complete my M.S. in Robotic Engineering. My thesis for my masters is on non-invasive glucose monitoring techniques and how they could realistically applied in marketable products. While I remained fairly well rounded in my undergrad, I am now focusing more on medical robotics and making devices that assist their users in some way.  </p>
+		<p> &nbsp;&nbsp;&nbsp; After gaining my Masters, I hope to work in the industry for a few years - perhaps getting my PhD at the same time. While I am open to new things, I believe I would enjoy working on devices that would assist people, mainly medical devices. When I am much older, I hope teach the following generations and pass on what ever knowledge I have accumulated over the years.</p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		
+		</blockquote>
+		</blockquote>
+	
+		</div>
+	</div>
+		<div id="bottom" align="center">
+		<br/>
+		<br/>
+		<br/>
+	
+				<div id="skills" align="center" style="display:inline-block">
+				<div class="tCover"><a href="#">
+				<center><p class="picText"> 
+				<br></br>
+				<br>Skills</br>
+				<br></br>
+				</p></center></a>
+				</div>
+				</div>
+				
+				<div id="project" align="center" style="display:inline-block">
+				<div class="tCover"><a href="#">
+				<center><p class="picText"> 
+				<br></br>
+				<br>Projects</br>
+				<br></br>
+				</p></center></a>
+				</div>
+				</div>
+				
+				<div id="placement"></div>
+				<div id="thesis" align="center" style="display:inline-block">
+				<div class="tCover"><a href="#">
+				<center><p class="picText"> 
+				<br></br>
+				<br>Thesis</br>
+				<br></br>
+				
+				</p></center></a>
+				</div>
+				</div>
+				<div id="about" align="center" style="display:inline-block">
+				<div class="tCover"><a href="#">
+				<center><p class="picText"> 
+				<br></br>
+				<br>About Me</br>
+				<br></br>
+				</p></center></a>
+				</div>
+				</div>
+			<br/>
+			<br/>
+			<br/>
+			<p> &copy; 2016 &nbsp;&nbsp; M.Hiatt &nbsp;&nbsp;&nbsp;<a href="#" style="font-size:16px;">mehiatt@outlook.com</a></p>
+		</div>
+	
+		
+		<script type="text/javascript">
+	
+			window.addEventListener('resize', function(){
+				var wid = (window.innerWidth || document.documentElement.clientWidth
+				|| document.body.clientWidth);
+
+				var hei = window.innerHeight || document.documentElement.clientHeight
+				|| document.body.clientHeight;
+
+				
+				if(wid < 1375){
+					document.getElementById('placement').innerHTML = "<p>&nbsp;</p>";
+					document.getElementById('placement').style.display='block';
+				} else {
+					document.getElementById('placement').innerHTML = "";
+					document.getElementById('placement').style.display='inline-block';
+				}
+				//document.getElementById('tableID').style.marginLeft = editW.toString() + "px";	
+			}, true);
+		</script>
+	
+	
+	
+
+	
+	</div>
+	
+  </body>
+</html>

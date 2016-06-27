@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width" />
+	
+    <title>Thesis</title>
+    
+	
+	<style>
+	body{
+		background-color: #01304B;
+		background-repeat: no-repeat;
+		background-attachment:fixed;
+		background-size:cover;
+		background-position:center top;
+		margin:0px;
+		padding: 0 px;
+		
+	}
+	#container{
+		max-width:880px;
+		min-width:430px;
+		margin: 0px auto;
+		background-color: #036096;
+		padding: 0px; 
+		background-size:cover;
+		background-position:center top;
+	}
+	#intro{
+		max-width:800px;
+		min-width:350px;
+		margin: 0px auto;
+		background-color: #FFF;
+		padding: 20px;
+		font-family: Arial, Helvetica, sans-serif;
+		background-image: url("bkgnd3.png");
+		background-repeat:no-repeat;
+		background-size: 850px;
+		
+	}
+	#wrapper{
+		max-width:800px;
+		min-width:350px;
+		margin: auto;
+		background-color: #FFF;
+		display:inline-block;
+	}
+	#skills{
+		width:300px;
+		height:300px;
+		background-image: url("solderingpic.jpg");
+		background-position:center;
+		margin-right:20px;
+		margin-bottom:5px;
+	}
+	  
+	#project{
+		width:300px;
+		height:300px;
+		background-image: url("oliraw2.jpg");
+		background-size:145%;
+		background-position:right;
+		margin-right:20px;
+		margin-bottom:5px;
+	}
+	  
+	  #thesis{
+	   width:300px;
+	   height:300px;
+	   background-image: url("thesis.jpg");
+	   background-size:225%;
+	   background-position:right;
+	   margin-right:20px;
+	   margin-top:5px;
+	  }
+	  #about{
+	   width:300px;
+	   height:300px;
+	   background-image: url("IMAG0824.jpg");
+	   background-size: 300px;
+	   background-position:center ;
+	   margin-right:20px;
+	   margin-top:5px;
+	  }
+	  
+	  
+	  #links{
+		color:#0595FB;
+		text-align:center;
+		font-size:20px
+	  }
+	  a {
+		text-decoration:none;
+		color:#888;
+		font-size:20px
+	  }
+	  a:hover{
+		color:#05A0FB;
+		font-style:italic;
+	  }
+	  #bottom{
+		width:100%;
+		bottom:0;
+		background-color: #69c6fc;
+		padding-top:20px;
+		padding-bottom:20px;
+		display:inline-block;
+		
+	  }
+
+
+    #tableID{
+		margin:auto;
+		<!--margin-left:expression(document.body.clientHeight*.05);#69c6fc-->
+	}
+	#tableID td {
+		display:inline-block;
+		
+	}
+	wrapperC{
+		width:100%;
+		margin: auto;
+		padding: 10px;
+	}
+	#placement{
+		display:inline-block;
+	}
+	.picText{
+		color:#000; 
+		font-size:36px;
+		font-weight:bold;
+		
+	}
+	.tCover{
+		background: rgba(255, 255, 255, .5);
+		color: #FFF;
+		filter: alpha(opacity=60);
+		width:100%;
+	    height:100%;
+		position:relative;
+		visibility: visible;
+		margin:-36px;
+	}
+	.picText:hover{
+		color: #036096;
+	}
+	img{
+		
+	}
+    </style>
+
+	
+  </head>
+  <body>
+  <div id="container">
+	
+	<div id="intro">
+		<div id="links"> <a href="#"> Contact Me </a>&nbsp; &nbsp; &nbsp; <a href="#"> LinkedIn </a></div>
+		<p style="font-size:22px"> &nbsp; </p>
+		<br/>
+		<br/>
+		<br/>
+		
+		
+		
+		
+		<blockquote>
+		<blockquote>
+		<blockquote>
+		<h1 align="center"><span style="color:#05A0FB; font-size:48px; ">Non-invasive glucose monitoring using light reflection techniques.</span></h1>
+		<p align="center"><span style="font-style:italic; color:#05A0FB;">Assessing if using light reflection is a feasible technique for non-invasive glucose monitoring for general diabetic patients. </span></p>
+		
+		<p>&nbsp;&nbsp;&nbsp; Some researchers have proved that it's possible to read glucose levels using mid to high IR light. This is done by detecting how much IR light is being reflected - different levels of glucose within the blood will change how much of the IR light is absorbed/reflected.   </p>
+		<p> &nbsp;&nbsp;&nbsp; Yet many of these researchers haven't really considered consumers. All of the research found so far shows that all of these non-invasive glucose monitoring devices are large (some larger then my 17" laptop!) and very expensive (some of the parts cost a few thousand by themselves). These are some of the main reasons why, at it's current state, this is not a feasible technology for consumers - both individual users and hospitals or care centers. For this thesis I will attempt to design a model for this that does keep the two points above in mind, while hopefully achieving the goal of non-invasively reading blood glucose.</p>
+		<p align="center"> I will expand this page more, however I am currently at the research stage of my thesis and haven't begun experimenting yet. </p>
+
+		<br/>
+		<br/>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		<p> &nbsp; </p>
+		</blockquote>
+		</blockquote>
+		</blockquote>
+	
+		</div>
+	</div>
+		
+		
+	
+	
+	
+
+	
+	</div>
+	
+  </body>
+</html>

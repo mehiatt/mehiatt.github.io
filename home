@@ -156,7 +156,7 @@
   <div id="container">
 	
 	<div id="intro">
-		<div id="links"> <a href="#"> Contact Me </a>&nbsp; &nbsp; &nbsp; <a href="#"> LinkedIn </a></div>
+		<div id="links"> <a href="#"> Contact Me </a>&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/meagan-hiatt-21986033?trk=nav_responsive_tab_profile"> LinkedIn </a></div>
 		<p style="font-size:22px"> &nbsp; </p>
 		<br/>
 		<br/>
@@ -212,7 +212,7 @@
 				
 				<div id="placement"></div>
 				<div id="thesis" align="center" style="display:inline-block">
-				<div class="tCover"><a href="#">
+				<div class="tCover"><a href="thesis.html">
 				<center><p class="picText"> 
 				<br></br>
 				<br>Thesis</br>

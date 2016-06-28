@@ -175,8 +175,7 @@
 		<p> &nbsp;&nbsp;&nbsp; Yet many of these researchers haven't really considered consumers. All of the research found so far shows that all of these non-invasive glucose monitoring devices are large (some larger then my 17" laptop!) and very expensive (some of the parts cost a few thousand by themselves). These are some of the main reasons why, at it's current state, this is not a feasible technology for consumers - both individual users and hospitals or care centers. For this thesis I will attempt to design a model for this that does keep the two points above in mind, while hopefully achieving the goal of non-invasively reading blood glucose.</p>
 		<p align="center"> I will expand this page more, however I am currently at the research stage of my thesis and haven't begun experimenting yet. </p>
 
-		<br/>
-		<br/>
+		<div id="links"> <a href="home.html"> Home Page </a>&nbsp; &nbsp; &nbsp; <a href="#"> About Me </a>&nbsp; &nbsp; &nbsp; <a href="#"> Projects </a></div>
 		<p> &nbsp; </p>
 		<p> &nbsp; </p>
 		<p> &nbsp; </p>
